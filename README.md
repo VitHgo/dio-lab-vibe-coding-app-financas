@@ -1,4 +1,5 @@
 # 💸 App de Organização de Finanças Pessoais com Vibe Coding feito por Vitor Hugo
+Este é um desafio de projeto da DIO para desenvolver um app de finanças pessoais usando Vibe Coding.
 
 ## PRD (Product Requirements Document) do "FinançaFácil"
 
